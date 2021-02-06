@@ -1,5 +1,5 @@
 - Book:: [[1 Corinthians]]
-- 1. Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth. ^1 ^1
+- 1. Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth. ^1
 - 2. And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know. ^2
 - 3. But if any man love God, the same is known of him. ^3
 - 4. As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol is nothing in the world, and that there is none other God but one. ^4

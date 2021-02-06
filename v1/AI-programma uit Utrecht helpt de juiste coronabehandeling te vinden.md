@@ -1,5 +1,5 @@
 - artikel: [AI-programma uit Utrecht helpt de juiste coronabehandeling te vinden](https://fd.nl/ondernemen/1345230/ai-programma-uit-utrecht-helpt-de-juiste-coronabehandeling-te-vinden)
-- datum:: [[May 21st, 2020]]
+- datum:: [[KJV/May 21st, 2020]]
 - auteur:: Jan Fred van Wijnen
 - tag:: #AI, #zorg, #coronacrisis, #positief
 - De VS stellen een database beschikbaar met alle medische corona-onderzoeken.

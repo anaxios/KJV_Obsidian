@@ -14,7 +14,7 @@
 - 13. My son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste: ^13
 - 14. So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off. ^14
 - 15. Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place: ^15
-- 16. For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief. ^16 ^16
+- 16. For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief. ^16
 - 17. Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth: ^17
 - 18. Lest the LORD see it, and it displease him, and he turn away his wrath from him. ^18
 - 19. Fret not thyself because of evil men, neither be thou envious at the wicked: ^19

@@ -7,7 +7,7 @@
 - 6. For a friend of mine in his journey is come to me, and I have nothing to set before him? ^6
 - 7. And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee. ^7
 - 8. I say unto you, Though he will not rise and give him, because he is his friend, yet because of his importunity he will rise and give him as many as he needeth. ^8
-- 9. And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you. ^9 ^9
+- 9. And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you. ^9
 - 10. For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. ^10
 - 11. If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent? ^11
 - 12. Or if he shall ask an egg, will he offer him a scorpion? ^12
