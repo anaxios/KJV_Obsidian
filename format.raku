@@ -3,7 +3,7 @@
 
 for dir('KJV') -> $file {
     $file.open(:r);
-   my $output = open( "/Users/sophronios/KJV-Obsidian/v1/" ~ $file.parts.basename,:a);
+   my $output = open( "/Users/sophronios/git/KJV_Obsidian/v1/" ~ $file.parts.basename,:a);
     for $file.lines -> $line {
 	my regex verse { ^"-"\s+(\d+) };
 	my $trimline = $line.trim;
